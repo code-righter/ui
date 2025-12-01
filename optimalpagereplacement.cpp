@@ -38,7 +38,7 @@ int main() {
         for (int f = 0; f < framesCount; ++f) {
             if (frames[f] == -1) {
                 frames[f] = page;
-                placed = true;
+                placed = true ; 
                 break;
             }
         }
