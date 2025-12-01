@@ -24,5 +24,5 @@ done
 if [ $is_prime -eq 1 ]; then
     echo "$num IS a prime number."
 else
-    echo "$num is NOT a prime number."
+    echo "$num is NOT a prime number"
 fi
