@@ -1,0 +1,11 @@
+roundRobin
+sjf
+priorityNonPreemptive
+priorityPreemptive
+producerConsumer
+fcfs
+fifopagereplacement
+optimalPageReplacement
+readerwriter
+Lab_statements.txt
+bankersalgo
